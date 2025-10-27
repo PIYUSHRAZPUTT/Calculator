@@ -24,4 +24,6 @@ This calculator is very useful to simple calculation, like that(Add, Subtract, M
 **Piyush**
 -GitHub:
 [@PIYUSHRAZPUTT] (https://github.com/PIYUSHRAZPUTT)
+-LinkedIn:
+[@Piyush Razputt] (https://www.linkedin.com/feed/)
    
