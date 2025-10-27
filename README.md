@@ -17,7 +17,8 @@ This calculator is very useful to simple calculation, like that(Add, Subtract, M
 1. Clone this repo:
    ```bash
    git clone
-   My GitHub Repository: [Calculator](https://github.com/PIYUSHRAZPUTT/Calculator)
+   My GitHub Repository: [Calculator]
+   (https://github.com/PIYUSHRAZPUTT/Calculator)
 2. Open the project folder.
 3. Run index.html in your browser.
 
